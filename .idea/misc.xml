@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/55119/Documents/Gi/Convidados/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/55119/Documents/Gi/Convidados/app/src/main/res/layout/fragment_all_guests.xml" value="0.2" />
+        <entry key="..\:/Users/55119/Documents/Gi/Convidados/app/src/main/res/layout/fragment_present.xml" value="0.2" />
+        <entry key="..\:/Users/55119/Documents/Gi/Convidados/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
       </map>
     </option>
   </component>
